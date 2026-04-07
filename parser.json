@@ -1,9 +1,9 @@
 {
+  "generate": null,
+  "lang": "dot",
+  "generate_from_json": null,
+  "url": "https://github.com/rydesun/tree-sitter-dot",
   "semver": false,
   "parser_version": "80327abbba6f47530edeb0df9f11bd5d5c93c14d",
-  "location": null,
-  "lang": "dot",
-  "generate": null,
-  "generate_from_json": null,
-  "url": "https://github.com/rydesun/tree-sitter-dot"
+  "location": null
 }
